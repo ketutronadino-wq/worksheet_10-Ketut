@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<key>NSCameraUsageDescription</key>
+<string>Fitur demo memerlukan kamera untuk memotret kamar kos.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Fitur demo memilih foto kamar dari galeri.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Fitur demo menggunakan lokasi untuk mengisi koordinat.</string>
+<key>NSMotionUsageDescription</key>
+<string>Fitur demo membaca gerakan perangkat untuk belajar sensor.</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
